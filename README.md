@@ -1,5 +1,5 @@
 # android-qubic-mining
-Android Mining Qubic reame
+Android Mining Qubic readme
 
 
 #### 1. 下载 `termux`
