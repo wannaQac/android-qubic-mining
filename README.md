@@ -15,7 +15,6 @@ Android Mining Qubic readme
 * `proot-distro install ubuntu`
 * `echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu`
 * `chmod +x $PREFIX/bin/ubuntu`
-* `chmod +x $PREFIX/bin/ubuntu`
 * `ubuntu`
 
 ### 3. 获取 `mining` 文件并赋予权限
