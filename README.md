@@ -25,3 +25,9 @@ Android Mining Qubic readme
 访问 https://github.com/Qubic-Solutions/rqiner-builds
 
 ![image](https://github.com/wannaQac/android-qubic-mining/assets/46772692/cb585bce-7407-4bf2-ba8b-41d4e2266d2c)
+
+
+### 5. 查看矿机状态
+访问 https://pooltemp.qubic.solutions/info?miner=<你的钱包地址>&list=true
+
+将 `<你的钱包地址>` 替换
